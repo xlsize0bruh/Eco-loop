@@ -1,0 +1,32 @@
+[
+    {
+        "id": "6a1f35e98a882",
+        "proposer_id": "6a1f357c17125",
+        "proposer_username": "papa",
+        "receiver_id": "6a1f355c70e6d",
+        "receiver_username": "wicked",
+        "offered_item_id": "6a1f35b947de0",
+        "offered_item_title": "gamma",
+        "wanted_item_id": "6a1f359f7323f",
+        "wanted_item_title": "Laptop",
+        "status": "completed",
+        "proposer_completed": true,
+        "receiver_completed": true,
+        "created_at": 1780430313
+    },
+    {
+        "id": "6a1f370db1a69",
+        "proposer_id": "6a1f357c17125",
+        "proposer_username": "papa",
+        "receiver_id": "6a1f355c70e6d",
+        "receiver_username": "wicked",
+        "offered_item_id": "6a1f370782bf2",
+        "offered_item_title": "potato",
+        "wanted_item_id": "6a1f36ee2af3c",
+        "wanted_item_title": "Ethernet Cable",
+        "status": "completed",
+        "proposer_completed": true,
+        "receiver_completed": true,
+        "created_at": 1780430605
+    }
+]
